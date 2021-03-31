@@ -6,7 +6,7 @@
   "scripts": {
     "main": "node main.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "puppeteer": "*"
   }
 }
