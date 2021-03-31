@@ -7,6 +7,6 @@
     "main": "node main.js"
   },
   "devDependencies": {
-    "puppeteer": "^1.17.0"
+    "puppeteer": "*"
   }
 }
