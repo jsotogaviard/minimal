@@ -1,0 +1,12 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "main": "node main.js",
+  },
+  "devDependencies": {
+    "puppeteer": "^1.17.0"
+  }
+}
